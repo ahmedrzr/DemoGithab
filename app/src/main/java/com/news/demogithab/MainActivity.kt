@@ -11,5 +11,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.e(TAG, "onCreate: BHAVANI" )
         Log.i(TAG, "onCreate: BHAVANI2")
+        Log.i(TAG, "onCreate: BHAVANI3")
+        Log.i(TAG, "onCreate: BHAVANI4")
+        Log.i(TAG, "onCreate: BHAVANI5")
     }
 }
