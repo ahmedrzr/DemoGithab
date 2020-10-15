@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.d(TAG, "onCreate: EXPERIMENTAL_1")
+        Log.d(TAG, "onCreate: EXPERIMENTAL_2")
     }
 }
