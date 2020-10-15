@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.d(TAG, "onCreate: MASTER")
         Log.d(TAG, "onCreate: EXPERIMENTAL_1")
+        Log.d(TAG, "onCreate: EXPERIMENTAL_2")
     }
 }
