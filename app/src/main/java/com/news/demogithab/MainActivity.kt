@@ -13,6 +13,9 @@ class MainActivity : AppCompatActivity() {
         Log.d(TAG, "onCreate: EXPERIMENTAL_1")
         Log.d(TAG, "onCreate: EXPERIMENTAL_2")
         Log.i(TAG, "onCreate: BHAVANI2")
+        Log.i(TAG, "onCreate: BHAVANI3")
+        Log.i(TAG, "onCreate: BHAVANI4")
+        Log.i(TAG, "onCreate: BHAVANI5")
          Log.i(TAG, "onCreate: BHAVANI45")
     }
 }
